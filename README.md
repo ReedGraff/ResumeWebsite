@@ -1,5 +1,14 @@
-# This is my website!
+Reed Graff
 
-Hey, I'm Reed. I was born and raised in Dallas, Texas. I study computer science, mechanical engineering, and I love a good debate. The primary area of my expertise is in 3D design, light coding projects, and physics. I am looking to expand my knowledge of aerospace engineering throughout the rest of my educational career.
+<!--
+For any Vite project:
 
-Inspired by https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ 
+npm create vite@latest my-project -- --template react
+npm install
+npm run dev
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+https://tailwindcss.com/docs/guides/vite
+-->
