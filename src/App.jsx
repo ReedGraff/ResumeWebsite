@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="relative h-screen w-screen overflow-hidden bg-[#140b29]">
       <STLViewer 
-        url="src/assets/3DBenchy.stl" 
+        url="3DBenchy.stl" 
         className="absolute inset-0 w-full h-full"
         isMobile={isMobile}
       />
